@@ -1,3 +1,5 @@
+# NAME: RITHVIK S
+# REG NO: 212223100045
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
@@ -47,17 +49,28 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+## Tabulation for Open Circuit Test
+![OT](https://github.com/user-attachments/assets/f4015729-932c-4057-975f-bf0bf10531b9)
 
-Tabulation for Load Test:
+## Tabulation for Load Test:
+![CT](https://github.com/user-attachments/assets/a1ac49df-e73b-413a-9e18-c703337e8cf2)
 
-Model graph:
-Calculation: 
+## Model graph:
+### open circiut:
+![OG](https://github.com/user-attachments/assets/82dd61cc-b979-4408-ac0f-1a51929adb6e)
 
-Open circuit characteristics
+### closed circuit:
+![CG](https://github.com/user-attachments/assets/ed8e3aa5-4fb0-46b4-a264-fd32c5714cd2)
 
-  
-Load Characteristics:
+## Circuit Diagram: 
+### open circuit:
+![OPEN C](https://github.com/user-attachments/assets/28ae6b21-9421-4813-9a86-660d057f28b1)
+
+
+### closed circuit:
+ ![CLOSED C](https://github.com/user-attachments/assets/4760b833-35fc-4b10-ad66-7100c1b0a42d)
+ 
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
