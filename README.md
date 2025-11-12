@@ -72,5 +72,5 @@ Procedure for Load test:
  
 
  
-Result:
+# Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
